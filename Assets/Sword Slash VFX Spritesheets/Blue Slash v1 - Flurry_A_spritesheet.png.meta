@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: e1eeede89f84e754b8ba8870fa85fac9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Slash v1 - Flurry_A_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1798
+        width: 234
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7124801014463834aba4b4e65d549a06
+      internalID: -318346067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Slash v1 - Flurry_A_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1691
+        width: 253
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a599f7d929c8f4bbfeaf6e28af0601
+      internalID: -303601212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Slash v1 - Flurry_A_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1668
+        width: 288
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b167c441791a4148937e3b7d0996383
+      internalID: 1785957412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Slash v1 - Flurry_A_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1658
+        width: 286
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee3b0b6374838e42965284e0c40a2d3
+      internalID: -36005850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Slash v1 - Flurry_A_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1147
+        width: 294
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb74b69c33010d4ab3279cdd404e430
+      internalID: -1075128889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Slash v1 - Flurry_A_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1229
+        width: 338
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60893828c5edad747a56af8880fbeda4
+      internalID: 544242017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Slash v1 - Flurry_A_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1258
+        width: 345
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4878b47cf5f25744ab8b9b2845e312e4
+      internalID: -1840121851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Slash v1 - Flurry_A_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1180
+        width: 345
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593bfe237824dfa488afd7885b644d12
+      internalID: -1224368469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Slash v1 - Flurry_A_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 662
+        width: 350
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e8ed2cf7441354bb78972e81029639
+      internalID: -959207044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Slash v1 - Flurry_A_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 662
+        width: 327
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348aedb62adeedc48b3ddecb6d0829e8
+      internalID: 192609331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Slash v1 - Flurry_A_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 641
+        width: 348
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33774a24d9f1edd43bfd244f3fb845d4
+      internalID: -695373426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Slash v1 - Flurry_A_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 641
+        width: 349
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1009bd03d88bb384a9fcf7bed38750ef
+      internalID: 1451604207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Slash v1 - Flurry_A_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 146
+        width: 270
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f76a74d3bc38a49afaa5ace45b3fe0
+      internalID: -2233080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Slash v1 - Flurry_A_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 228
+        width: 289
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0821dbdef5b4a349885b084a98de4d4
+      internalID: 608056525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Slash v1 - Flurry_A_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 235
+        width: 301
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fefd028404ee514aae18d4cefcaac74
+      internalID: -484807711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Slash v1 - Flurry_A_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 235
+        width: 239
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce5f1aa9b7e9764cbe3b62a6620a91f
+      internalID: -1308498160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Blue Slash v1 - Flurry_A_spritesheet_0: -318346067
+      Blue Slash v1 - Flurry_A_spritesheet_1: -303601212
+      Blue Slash v1 - Flurry_A_spritesheet_10: -959207044
+      Blue Slash v1 - Flurry_A_spritesheet_11: 192609331
+      Blue Slash v1 - Flurry_A_spritesheet_12: -695373426
+      Blue Slash v1 - Flurry_A_spritesheet_13: 2129488559
+      Blue Slash v1 - Flurry_A_spritesheet_14: 1451604207
+      Blue Slash v1 - Flurry_A_spritesheet_15: 1091423959
+      Blue Slash v1 - Flurry_A_spritesheet_16: -2233080
+      Blue Slash v1 - Flurry_A_spritesheet_17: 608056525
+      Blue Slash v1 - Flurry_A_spritesheet_18: -484807711
+      Blue Slash v1 - Flurry_A_spritesheet_19: -1308498160
+      Blue Slash v1 - Flurry_A_spritesheet_2: 1785957412
+      Blue Slash v1 - Flurry_A_spritesheet_3: -36005850
+      Blue Slash v1 - Flurry_A_spritesheet_4: -1075128889
+      Blue Slash v1 - Flurry_A_spritesheet_5: 544242017
+      Blue Slash v1 - Flurry_A_spritesheet_6: -1840121851
+      Blue Slash v1 - Flurry_A_spritesheet_7: 1091839065
+      Blue Slash v1 - Flurry_A_spritesheet_8: -1224368469
+      Blue Slash v1 - Flurry_A_spritesheet_9: 479435563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
